@@ -1,0 +1,16 @@
+.card-body {
+    background-color: #c1b8d4;
+    padding: 30px;
+    border-radius: 0px;
+}
+
+.navbar {
+    background-color: #8860dd;
+}
+
+.judul {
+    text-align: center;
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+}
